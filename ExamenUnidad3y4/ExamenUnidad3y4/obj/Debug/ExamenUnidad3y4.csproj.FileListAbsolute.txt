@@ -1,0 +1,12 @@
+C:\Users\jared\source\repos\ExamenUnidad3y4\ExamenUnidad3y4\bin\Debug\ExamenUnidad3y4.exe.config
+C:\Users\jared\source\repos\ExamenUnidad3y4\ExamenUnidad3y4\bin\Debug\ExamenUnidad3y4.exe
+C:\Users\jared\source\repos\ExamenUnidad3y4\ExamenUnidad3y4\bin\Debug\ExamenUnidad3y4.pdb
+C:\Users\jared\source\repos\ExamenUnidad3y4\ExamenUnidad3y4\obj\Debug\ExamenUnidad3y4.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\ExamenUnidad3y4\ExamenUnidad3y4\obj\Debug\ExamenUnidad3y4.DialogBoxCaptura.resources
+C:\Users\jared\source\repos\ExamenUnidad3y4\ExamenUnidad3y4\obj\Debug\ExamenUnidad3y4.Form1.resources
+C:\Users\jared\source\repos\ExamenUnidad3y4\ExamenUnidad3y4\obj\Debug\ExamenUnidad3y4.Properties.Resources.resources
+C:\Users\jared\source\repos\ExamenUnidad3y4\ExamenUnidad3y4\obj\Debug\ExamenUnidad3y4.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\ExamenUnidad3y4\ExamenUnidad3y4\obj\Debug\ExamenUnidad3y4.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\ExamenUnidad3y4\ExamenUnidad3y4\obj\Debug\ExamenUnidad3y4.exe
+C:\Users\jared\source\repos\ExamenUnidad3y4\ExamenUnidad3y4\obj\Debug\ExamenUnidad3y4.pdb
+C:\Users\jared\source\repos\ExamenUnidad3y4\ExamenUnidad3y4\obj\Debug\ExamenUnidad3y4.DialogBoxBuscarEspecialidad.resources
